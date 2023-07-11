@@ -1,0 +1,82 @@
+body{
+    font-family: 'raleway';
+    background-color: rgb(233, 230, 230);
+}
+.hdr{
+
+    margin-top : -3px;
+    margin-left: -50px;
+    background-color: rgb(248, 242, 242);
+    color : rgb(193, 108, 214);
+    display: inline-flex;
+    width : 1390px;
+    height : 70px;
+
+}
+.hdr img{
+    margin-left : 50px;
+    margin-top :0px;
+    margin-right : 10px;
+    border-radius: 10px;
+} 
+.hdr2{
+
+    margin-left : 430px;
+    margin-top : -20px;
+}
+.hdr3{
+
+    color : rgb(193, 108, 214);
+    margin-left : 40px;
+    margin-top : -20px;
+
+}
+.cards{
+    background-color: white;
+    display: inline-flex;
+    margin-left: 200px;
+    margin-top: 10px;
+    width : 900px;
+    height: 800px;
+}
+.main{
+    margin-top : 60px;
+    margin-left: 50px;
+    font-size: 20px;
+    width : 800px; 
+}
+.hng{
+    margin-top: 50px;
+    font-size: 40px;
+
+}
+.card{
+    margin-left: 50px;
+    margin-top: 40px;
+    height : 180px;
+    width : 180px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%),
+                 0 2px 10px 0 rgb(0 0 0 / 12%);  
+}
+.card:hover{
+    border :1px solid grey;
+}
+.courses{
+    display : inline-flex;
+    width : 800px;
+}
+.footer{
+    background-color: rgb(24, 24, 24);
+    height : 250px;
+    width : 1340px;
+    text-align: center;
+    color: rgb(202, 199, 199);
+}
+.ftr{
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.ftr p{
+    font-size: 30px;
+}
